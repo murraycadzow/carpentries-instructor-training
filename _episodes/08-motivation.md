@@ -1,5 +1,6 @@
 ---
 title: "Motivation and Demotivation"
+start: true
 block: "Creating a Positive Learning Environment"
 teaching: 30
 exercises: 30
