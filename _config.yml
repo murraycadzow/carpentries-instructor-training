@@ -95,30 +95,3 @@ highlighter: rouge
 
 plugins: [jekyll-redirect-from]
 
-
-episode_order:
-      - 01-welcome
-      - 02-practice-learning
-      - 04-expertise
-      - 03-coffee
-      - 05-memory
-      - 06-feedback
-      - 07-lunch
-      - 08-motivation
-      - 09-eia
-      - 10-coffee
-      - 11-practice-teaching
-      - 12-homework
-      - 13-second-welcome
-      - 14-checkout
-      - 15-carpentries
-      - 16-coffee
-      - 17-live
-      - 18-preparation
-      - 19-lunch
-      - 20-performance
-      - 21-management
-      - 22-coffee
-      - 23-introductions
-      - 24-practices
-      - 25-wrap-up
