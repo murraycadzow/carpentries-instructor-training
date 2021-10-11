@@ -1,6 +1,5 @@
 ---
 title: "More Practice Live Coding"
-start: true
 block: "Building Teaching Skill"
 teaching: 20
 exercises: 25
