@@ -87,7 +87,7 @@ motivating.
 > but most graphical editors save things to the user's desktop or home directory.
 > If a novice needs to run shell commands on the files they've edited,
 > they often fail to navigate to the right directory without help.
-> You will learn to anticipate these sorts of challenges as you chart your [expert awareness gaps]({{ page.root }}{% link _episodes/04-expertise.md %}#expertise-and-teaching). As a result, your skill at estimating time to mastery will improve.
+> You will learn to anticipate these sorts of challenges as you chart your [expert awareness gaps]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching). As a result, your skill at estimating time to mastery will improve.
 > If you are new to teaching, try to ask an experienced instructor for feedback before trying out a new exercise.
 {: .callout}
 
