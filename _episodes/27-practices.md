@@ -1,7 +1,7 @@
 ---
 title: "Putting It Together"
 teaching: 5
-exercises: 15
+exercises: 20
 questions:
 - "How are the teaching practices we have learned used in our workshops?"
 objectives:

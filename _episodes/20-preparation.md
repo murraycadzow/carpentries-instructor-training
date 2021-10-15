@@ -1,8 +1,8 @@
 ---
 title: "Preparing to Teach"
 block: "Building Teaching Skill"
-teaching: 20
-exercises: 25
+teaching: 30
+exercises: 35
 questions:
 - "How should I prepare to teach?"
 objectives:

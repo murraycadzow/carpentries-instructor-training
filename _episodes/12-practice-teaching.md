@@ -1,8 +1,8 @@
 ---
 title: "Teaching is a Skill"
 block: "Building Teaching Skill"
-teaching: 20
-exercises: 40
+teaching: 40
+exercises: 50
 questions:
 - "How can I improve my teaching?"
 objectives:

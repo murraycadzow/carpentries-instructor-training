@@ -1,8 +1,8 @@
 ---
 start: false
-title: "Live Coding is a Skill"
+title: "Live Coding is a Skill - cont"
 block: "Building Teaching Skill"
-teaching: 20
+teaching: 0
 exercises: 30
 questions:
 - "Why do we teach programming using participatory live coding?"

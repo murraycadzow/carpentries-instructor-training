@@ -2,7 +2,7 @@
 title: "More Practice Live Coding"
 block: "Building Teaching Skill"
 teaching: 20
-exercises: 25
+exercises: 35
 questions:
 - "How did you change your teaching in response to feedback?"
 objectives:

@@ -1,7 +1,7 @@
 ---
 title: "Motivation and Demotivation"
 block: "Creating a Positive Learning Environment"
-teaching: 30
+teaching: 50
 exercises: 30
 questions:
 - "Why is motivation important?"

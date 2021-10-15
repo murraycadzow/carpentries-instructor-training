@@ -1,7 +1,7 @@
 ---
 title: "Equity, Inclusion, and Accessibility"
 block: "Creating a Positive Learning Environment"
-teaching: 20
+teaching: 25
 exercises: 20
 questions:
 - "Why are equity, inclusion, and accessibility important?"
