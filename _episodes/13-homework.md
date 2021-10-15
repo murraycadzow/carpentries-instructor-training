@@ -15,21 +15,21 @@ keypoints:
 
 In the first half of this workshop we have focused on understanding some core findings of pedagogical research about how the learning process
 works and the importance of creating a positive classroom environment. We also introduced the idea of lesson study
-and gave some opportunities to practice teaching. Tomorrow we will continue our discussions of
+and gave some opportunities to practice teaching. Next week we will continue our discussions of
 how we build teaching skill and will have more chances for practice and feedback. We will also
 look in some depth at how The Carpentries operates to prepare you for the logistics of teaching a workshop.
 
-To prepare for tomorrow, please:
+To prepare for next week, please:
 
 1.  Read about [centrally-organized and self-organized workshops](https://carpentries.org/workshops/#workshop-organising) and our handbook content on [Teaching and Hosting Workshops](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) -- be sure to click through to some of the associated checklists. These summarize commonly asked questions about organizing and running workshops.
-    When you arrive tomorrow, we will ask you to add one question about our operations to a list.
+    When you arrive next week, we will ask you to add one question about our operations to a list.
     We will then do our best to answer all of those questions during the day.
 
 2.  Prepare for the [live coding exercises]({{ page.root }}/17-live/).
     If you have not already done so per the pre-workshop instructions, pick an episode from an existing Software Carpentry, 
     Data Carpentry, or Library Carpentry lesson and 
     read through it carefully.
-    Tomorrow, you will use this to practice live coding/participatory instruction for 3 minutes. 
+    Next week, you will use this to practice live coding/participatory instruction for 3 minutes. 
     Remember, imperfect presentations can generate useful feedback!
     If you have not yet selected an episode to focus on and would like a recommendation, consider one of the following:
     *   Data Carpentry
